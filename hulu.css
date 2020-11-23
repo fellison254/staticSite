@@ -1,0 +1,83 @@
+body {
+  width: 100%;
+  background-image: linear-gradient(
+    135deg,
+    #231437 0%,
+    #2c385e 50%,
+    #336e6b 100%
+  );
+}
+header {
+  width: 90%;
+}
+.login {
+  color: white;
+  height: 50px;
+  padding: 10px;
+  /* justify-content: end; */
+  text-align: right;
+}
+.main {
+  background-size: cover;
+  background-image: url(./asset/Homepage_Masthead_Test_DESKTOP_3200x1320-v4c_6.16.20.jpg);
+  /* display: flex; */
+  /* justify-content: center; */
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page {
+  width: 784.8px;
+  height: 698.4px;
+}
+h1 {
+  color: white;
+  width: 100%;
+  text-align: justify;
+  padding: 20px;
+  /* justify-content: right; */
+}
+.button {
+  color: #ffffff;
+  background: transparent;
+  border: 2px solid #ffffff;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+.dplus {
+  width: 500px;
+}
+.wrap {
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+}
+.save{
+    color:#2dbd9d;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    line-height: 13px;
+}
+.bundle{
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline
+
+}
+.ribbon{
+    display: flex;
+    align-items: center;
+
+}
+.words{
+    padding:0 10px 0 30px;
+    
+}
